@@ -42,13 +42,14 @@ header {
   flex-wrap: wrap;
   align-items: center;
   background-color: #79A3D1;
-  box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
+  border: 5px solid transparent;
+  box-shadow: 0 0 20px rgb(121, 163, 209,0.5)
 }
 
 header h1 {
-  color: #fff; /* white text color */
+  color: #fff; 
   padding: 10px; /* add some padding to make the text more readable */
-  text-shadow: 0 0 5px rgba(255, 255, 255, 0.7); /* add a blurred shadow */
+  text-shadow: 0 0 3px rgba(255, 255, 255, 0.7); /* add a blurred shadow */
   margin: 0;
   font-size: 4vw;
   line-height: 1;
@@ -109,11 +110,12 @@ main {
 }
 
 .hero-banner h2 {
-  background-color: rgba(0, 191, 255, 0.2); 
-  color: #fff; /* white text color */
-  text-shadow: 0 0 2px rgba(255, 255, 255, 0.7); /* add a blurred shadow */
+  border: 5px solid transparent;
+  background-color: rgba(128, 128, 128, 0.18);
+  color: #fff; 
+  text-shadow: 0 0 1px rgba(255, 255, 255, 0.8); /* add a blurred shadow */
   margin: 0;
-  padding: 10px;
+  padding: 4px;
   font-size: 1.4rem;
   line-height: 1.2;
   display: inline;
@@ -227,7 +229,7 @@ main {
 
 /* portfolio project images */
 .run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+  background-image: url("/Users/jordynenos/Desktop/mini-projects/UCLA-VIRT-FSF-FT-02-2023-U-LOLC/02-Advanced-CSS/02-Challenge/Main/assets/images/run-buddy-pic.jpg");
 }
 
 .led-wall {
@@ -243,7 +245,7 @@ main {
 }
 
 .surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+  background-image: url("/Users/jordynenos/Desktop/mini-projects/UCLA-VIRT-FSF-FT-02-2023-U-LOLC/02-Advanced-CSS/02-Challenge/Main/assets/images/02-portfolio-4.jpg");
 }
 
 /* end portfolio project images */
