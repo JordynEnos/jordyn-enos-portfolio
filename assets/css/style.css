@@ -48,7 +48,7 @@ header {
 
 header h1 {
   color: #fff; 
-  padding: 10px; /* add some padding to make the text more readable */
+  padding: 10px; /* added some padding to make the text more readable */
   text-shadow: 0 0 3px rgba(255, 255, 255, 0.7); /* add a blurred shadow */
   margin: 0;
   font-size: 4vw;
@@ -129,7 +129,7 @@ main {
   border: 3px solid transparent;
   background-color: rgba(128, 128, 128, 0.18);
   color: #fff; 
-  text-shadow: 0 0 1px rgba(255, 255, 255, 0.8); /* add a blurred shadow */
+  text-shadow: 0 0 1px rgba(255, 255, 255, 0.8); /* added a blurred shadow */
   margin: 0;
   padding: 4px;
   font-size: 1.4rem;
