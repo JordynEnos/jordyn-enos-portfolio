@@ -16,7 +16,9 @@ The purpose of this project is to create a portfolio page that showcases my work
 
 6. When the images are clicked, the user is taken to the deployed application
 
-7. When the page is resized or viewed on various screens, the user is presented with a responsive layout that adapts to the viewport
+7. All Contact Info anchors were given functional, clickable addresses
+
+8. When the page is resized or viewed on various screens, the user is presented with a responsive layout that adapts to the viewport
 
 
 ## Technologies Used
@@ -32,11 +34,8 @@ The purpose of this project is to create a portfolio page that showcases my work
 
 ![Screenshot of Jordyn-Enos-Portfolio](https://github.com/JordynEnos/jordyn-enos-portfolio/blob/c307c12f9cb3ddd445f50100610bc70db5317147/assets/images/jordyn-enos-portfolio-screenshot.png)
 
+
 ## Differences from Original Code
 
 Implemented a functional hyperlink to my personal resume on the webpage using HTML & CSS. The Resume anchor was styled appropriately and directed users to a new webpage using a 'target' attribute when clicked, providing a seamless & user-friendly browsing experience.
 
-## Credits
-
-
-https://github.com/JordynEnos/jordyn-enos-portfolio/blob/c307c12f9cb3ddd445f50100610bc70db5317147/assets/images/jordyn-enos-portfolio-screenshot.png
