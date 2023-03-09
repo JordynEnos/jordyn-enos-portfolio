@@ -30,10 +30,13 @@ The purpose of this project is to create a portfolio page that showcases my work
 
 ## Usage (Screenshot)
 
-![Screenshot of updated Horiseon webpage](https://github.com/JordynEnos/code-refactor-horiseon/blob/main/Develop/assets/images/Horiseon-screenshot.png?raw=true)
+![Screenshot of Jordyn-Enos-Portfolio](https://github.com/JordynEnos/jordyn-enos-portfolio/blob/c307c12f9cb3ddd445f50100610bc70db5317147/assets/images/jordyn-enos-portfolio-screenshot.png)
 
 ## Differences from Original Code
 
 Implemented a functional hyperlink to my personal resume on the webpage using HTML & CSS. The Resume anchor was styled appropriately and directed users to a new webpage using a 'target' attribute when clicked, providing a seamless & user-friendly browsing experience.
 
 ## Credits
+
+
+https://github.com/JordynEnos/jordyn-enos-portfolio/blob/c307c12f9cb3ddd445f50100610bc70db5317147/assets/images/jordyn-enos-portfolio-screenshot.png
