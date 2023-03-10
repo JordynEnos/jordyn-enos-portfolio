@@ -92,7 +92,7 @@ main {
 
 .hero-banner {
   background: rgba(225, 236, 255, 0.4);
-  background-image: url("/Users/jordynenos/Desktop/mini-projects/UCLA-VIRT-FSF-FT-02-2023-U-LOLC/02-Advanced-CSS/02-Challenge/Main/assets/images/palm-tree-skyline.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("assets/images/palm-tree-skyline.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
