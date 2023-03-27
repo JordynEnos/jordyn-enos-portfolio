@@ -272,6 +272,10 @@ main {
   background-image: url("/Users/jordynenos/Desktop/mini-projects/UCLA-VIRT-FSF-FT-02-2023-U-LOLC/02-Advanced-CSS/02-Challenge/Main/assets/images/02-portfolio-4.jpg");
 }
 
+.gig-grabber {
+  background-image: url("Main/assets/images/giggrabber-homepage.png");
+}
+
 /* end portfolio project images */
 
 @media screen and (max-width: 980px) {
