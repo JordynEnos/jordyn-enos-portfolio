@@ -92,7 +92,7 @@ main {
 
 .hero-banner {
   background: rgba(225, 236, 255, 0.4);
-  background-image: url("assets/images/palm-tree-skyline.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("Main/assets/images/palm-tree-skyline.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
